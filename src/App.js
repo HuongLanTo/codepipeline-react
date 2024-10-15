@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Hello World</h1>
+      <h1>Hello World again to test automatically code pipeline</h1>
     </div>
   );
 }
